@@ -1,5 +1,5 @@
 
-describe('Rules Test Cases', () => {
+describe('Rules Test Casessdskdfksjdf qw2', () => {
     // it('test_if_admin_can_add_rule', () => {
     //   cy.changeLanguageBeforeTestStart()
     //   cy.login()
